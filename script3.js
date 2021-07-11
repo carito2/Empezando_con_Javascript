@@ -1,4 +1,4 @@
-console.log("--Ejercicio Amiga Mayor--")
+/*console.log("--Ejercicio Amiga Mayor--")
 
 let edadJulieta = 30;
 let edadMartha = 25;
@@ -21,4 +21,4 @@ if (edadAlberto > edadMarcos && edadAlberto > edadJoel) {
     console.log("El hermano mayor es Marcos")
 } else {
     console.log ("El hermano mayor es Joel")
-}
+}*/

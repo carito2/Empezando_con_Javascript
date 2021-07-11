@@ -1,4 +1,4 @@
-console.log ("13---ESCANDALOTRON--")
+/*console.log ("13---ESCANDALOTRON--")
 console.log ("----grupo1----")
 let persona1 = 20;
 let persona2 = 10;
@@ -65,4 +65,4 @@ if (totalDecibelios > 30 && totalDecibelios <= 60) {
 }
 if (totalDecibelios > 60) {
     console.log ("Las personas están haciendo un ESCÁNDALO")
-}
+}*/
