@@ -1,4 +1,4 @@
-console.log("---Challenge Meeting 21---");
+/*console.log("---Challenge Meeting 21---");
 
 console.log("---Número 1---");
 let numbers = [
@@ -40,12 +40,4 @@ function repeat(n){
 }
 
 repeat(10);
-
-console.log("---Número 5---");
-function repeatMessage(n, message) {
-    for (let index = 0; index < n; index++){
-        console.log(message);
-        console.log("\n");
-    }
-}
-repeatMessage(5,"Debo aprender sobre ciclos.");
+*/
